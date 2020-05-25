@@ -1,0 +1,6 @@
+package dhcli
+
+modules
+  = System.Console.Interface
+
+sourcedir = "src"
